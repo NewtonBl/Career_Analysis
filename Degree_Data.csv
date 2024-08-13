@@ -1,0 +1,8 @@
+﻿Degree,Degree_Level,Required_Credits,Number_of_Jobs,Projected_Growth,Growth_Year,Avg_Pay_1,Avg_Pay_10,Median_Pay_BLS
+Bioinformatics,Masters,32,60400,0.038,2032,77500,104648,
+Aerospace Engineering,Bachelors,96,66660,0.0611,2032,74066,120773,130720
+Statistics,Masters,,35600,0.3,2032,71774,112899,104860
+Accounting,Bachelors,45,1538400,0.04,2032,51167,77784,79880
+Mechanical Engineering,Bachelors,80,286100,0.1,2032,81136,114655,99510
+Software Engineering,Masters,36,1795300,0.25,2032,106000,131500,130160
+Data Science,Masters,36,168900,0.35,2032,103000,126000,108020
